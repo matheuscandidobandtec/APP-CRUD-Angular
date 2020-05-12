@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung s20",
+      "price": 5000.9
+    },
+    {
+      "name": "Geladeira com agua na porta",
+      "price": "500",
+      "id": 4
+    },
+    {
+      "name": "Iphone xs",
+      "price": "4400.00",
+      "id": 5
+    },
+    {
+      "name": "Mouse gamer",
+      "price": "200",
+      "id": 6
+    },
+    {
+      "name": "Caneta",
+      "price": "2",
+      "id": 7
+    }
+  ]
+}
